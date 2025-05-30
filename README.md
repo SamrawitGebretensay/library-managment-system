@@ -1,0 +1,3 @@
+This is a simple Library Management System I built using C# and SQL Server as part of a programming assignment. The app lets you add, edit, delete, and search for books and members, and also keep track of which books are borrowed or returned. I used ADO.NET to connect to the database and implemented basic CRUD operations. It’s a desktop application that helped me practice object-oriented programming and working with databases in a real project.
+
+I designed a basic user interface to make it easy to navigate between features. The database includes tables for books, members, and borrow records. This project helped me understand how software interacts with a backend database in a real-world scenario.
